@@ -12,8 +12,8 @@
 
 ### 개발 환경
 
-- 개발 언어 : Java
-- 개발 환경 : Spring Framework, Spring Boot, Spring security, Spring Data JPA
+- Programin Language : Java
+- Framework/ Library : Spring Framework, Spring Boot, Spring security, Spring Data JPA
 - DBMS : MariaDB
 - IDE : IntelliJ
 - Environment : AWS, Window
