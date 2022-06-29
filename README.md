@@ -15,6 +15,5 @@
 - Programin Language : Java
 - Framework/ Library : Spring Framework, Spring Boot, Spring security, Spring Data JPA
 - DBMS : MariaDB
-- IDE : IntelliJ
 - Environment : AWS, Window
 - etc : GitHub
